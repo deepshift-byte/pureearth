@@ -194,6 +194,20 @@ figcaption{font-size:15px;line-height:1.4;color:var(--grey);margin-top:10px}
 .next-proj{display:block;background:var(--mist);text-decoration:none;transition:background-color .3s}
 .next-proj:hover{background:#d3e6da}
 
+/* gallery page */
+.gf{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:clamp(24px,3vw,44px)}
+.gf button{font:inherit;font-size:16px;font-weight:600;padding:9px 16px;border-radius:999px;border:2px solid #9fbbab;background:transparent;color:var(--ink);cursor:pointer;transition:background-color .25s,color .25s,border-color .25s}
+.gf button:hover{border-color:var(--forest)}
+.gf button[aria-pressed=true]{background:var(--forest);border-color:var(--forest);color:#fff}
+.gf span{font-weight:400;margin-left:.35em}
+.wall{column-count:4;column-gap:clamp(8px,1vw,14px)}
+.wall button{all:unset;display:block;width:100%;margin-bottom:clamp(8px,1vw,14px);break-inside:avoid;cursor:zoom-in;overflow:hidden;background:var(--mist)}
+.wall button:focus-visible{outline:3px solid var(--lake-mid);outline-offset:3px}
+.wall img{width:100%;height:auto;transition:transform .9s var(--ease)}
+.wall button:hover img{transform:scale(1.04)}
+@media (max-width:1100px){.wall{column-count:3}}
+@media (max-width:640px){.wall{column-count:2}.gf button{font-size:15px;padding:8px 13px}}
+
 /* team */
 .team-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:clamp(32px,3.5vw,52px) clamp(14px,2vw,28px)}
 .tm .pic{aspect-ratio:4/5;background:#fff}

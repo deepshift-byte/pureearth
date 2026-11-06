@@ -21,7 +21,8 @@ Then open http://localhost:3000.
 ## Common edits
 - **Team names and roles:** `src/content/team.ts`. Fill in `name` and `role`, and they appear on the team page.
 - **Text, projects, funding priorities, contact details:** `src/content/site.json`.
-- **Photos:** add a `.webp` to `public/img` and an entry in `src/content/images.json`.
+- **Photos on pages:** add a `.webp` to `public/img` and an entry in `src/content/images.json`.
+- **Gallery page:** add a `.webp` to `public/gallery` and an entry in `src/content/gallery.json`.
 - **Downloads:** replace the PDFs in `public/downloads`.
 
 ## Contact form

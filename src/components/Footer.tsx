@@ -20,6 +20,7 @@ export function Footer() {
               <ul>
                 <li><TLink href="/about">About</TLink></li>
                 <li><TLink href="/work">Our work</TLink></li>
+                <li><TLink href="/gallery">Gallery</TLink></li>
                 <li><TLink href="/team">Team</TLink></li>
                 <li><TLink href="/partner">Partner with us</TLink></li>
               </ul>

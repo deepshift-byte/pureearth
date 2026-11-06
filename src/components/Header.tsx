@@ -7,6 +7,7 @@ import { TLink } from "./TLink";
 const links = [
   { href: "/about", label: "About" },
   { href: "/work", label: "Our work" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/team", label: "Team" },
 ];
 
