@@ -1,0 +1,365 @@
+{
+ "org": "Pure Earth Organisation Uganda",
+ "tagline": "Innovate. Sustain. Transform.",
+ "contact": {
+  "email": "pureearthorganisation@gmail.com",
+  "phones": [
+   "+256 770 462 852",
+   "+256 705 977 510"
+  ],
+  "phoneHrefs": [
+   "+256770462852",
+   "+256705977510"
+  ],
+  "address": "Luzira, Nakawa, Kampala, Uganda"
+ },
+ "about": [
+  "Pure Earth Organisation Uganda is a Ugandan environmental and sustainable development organisation established in 2022, committed to advancing environmental conservation, sustainable waste management and community-led climate action.",
+  "We believe that environmental challenges require practical, inclusive and innovative solutions. Our work focuses on transforming waste into valuable resources, promoting responsible environmental practices and empowering communities to help build a cleaner, healthier and more sustainable environment.",
+  "Through community engagement, environmental education, plastic waste recycling, skills development and strategic partnerships, we work with young people, women, schools, local communities and marginalised groups to create opportunities for environmental sustainability and improved livelihoods.",
+  "At Pure Earth, we see waste not simply as an environmental problem, but also as an opportunity for innovation, entrepreneurship and sustainable development."
+ ],
+ "vision": "A cleaner, greener and more sustainable planet where communities live in harmony with the environment.",
+ "mission": "To promote sustainable waste management, environmental conservation and inclusive community development through innovation, education, partnerships and practical environmental solutions.",
+ "areas": [
+  {
+   "title": "Sustainable waste management and plastic recycling",
+   "text": "We promote responsible waste management, plastic collection, recycling and waste-to-value initiatives that reduce pollution while creating opportunities for resource recovery and green entrepreneurship.",
+   "img": "clear-bin"
+  },
+  {
+   "title": "Climate action and environmental conservation",
+   "text": "We support community-led climate action through environmental awareness, conservation initiatives, climate education and practical interventions that build environmental resilience.",
+   "img": "plant-mentor"
+  },
+  {
+   "title": "Environmental education and community engagement",
+   "text": "We engage schools, young people and local communities through environmental education, school environmental clubs, awareness campaigns and community clean-ups.",
+   "img": "tent-hands"
+  },
+  {
+   "title": "Youth and women's empowerment",
+   "text": "We equip young people and women with knowledge, practical skills and opportunities to take part in the green economy, environmental entrepreneurship and sustainable livelihoods.",
+   "img": "women-frames"
+  },
+  {
+   "title": "Inclusive environmental development",
+   "text": "We promote the participation of persons with disabilities and other underserved groups, because sustainable development must be inclusive and accessible to everyone.",
+   "img": "adapt-meeting"
+  }
+ ],
+ "principles": [
+  {
+   "title": "Innovation",
+   "text": "Developing practical and locally relevant solutions to environmental challenges."
+  },
+  {
+   "title": "Community participation",
+   "text": "Placing communities at the centre of environmental decision-making and action."
+  },
+  {
+   "title": "Sustainability",
+   "text": "Promoting solutions that deliver lasting environmental and social benefits."
+  },
+  {
+   "title": "Inclusion",
+   "text": "Ensuring that young people, women and marginalised groups have opportunities to participate."
+  },
+  {
+   "title": "Partnerships",
+   "text": "Working with schools, civil society organisations, local governments, development partners and other stakeholders on shared environmental goals."
+  }
+ ],
+ "impact": "Through our programmes, we have engaged and trained over 100 young people in environmental action and sustainable practices. We also work with schools to strengthen environmental awareness, establish environmental clubs, promote responsible waste disposal and encourage practical conservation activities.",
+ "future": "We envision communities where waste is valued as a resource, young people are active participants in the green economy, women have opportunities to lead environmental initiatives, and everyone has a role in protecting the planet.",
+ "projects": [
+  {
+   "slug": "bottle-bins",
+   "short": "The bottle dustbin",
+   "title": "A dustbin made from the waste it collects",
+   "date": "April 2026",
+   "place": "Kayunga Mixed Primary School",
+   "partners": [
+    "TARD Foundation",
+    "Gufasha Girls Foundation"
+   ],
+   "lede": "The Pure Earth Innovation Hub turns used plastic bottles into dustbins, then puts them where children will use them every day.",
+   "body": [
+    "Every bin is a lesson you can walk past. It is built from used plastic bottles, so pupils can see exactly what a discarded bottle can become.",
+    "In April 2026, in partnership with TARD Foundation and Gufasha Girls Foundation, we took the bins to Kayunga Mixed Primary School. Each one carries a simple notice: Dump. Keep our environment clean. Use it. Respect it. This dustbin is made from plastic bottles.",
+    "Pupils, teachers and our team gathered behind signs that carried the message further: There is no Plan B. I am a climate educator. Clean air = stronger lungs. Green school = a happy planet."
+   ],
+   "cover": "kayunga-group",
+   "gallery": [
+    "kayunga-girls-bin",
+    "kayunga-signs",
+    "kayunga-mentor-bin",
+    "cover-flier",
+    "kayunga-entrance"
+   ],
+   "hero": [
+    "kayunga-group"
+   ],
+   "coverPos": "50% 70%"
+  },
+  {
+   "slug": "waste-to-value",
+   "short": "Waste to value",
+   "title": "From bottles to bins and planters",
+   "date": "2023 to 2026",
+   "place": "Uganda",
+   "partners": [],
+   "lede": "What others throw away becomes something people want to keep. That is the idea behind our waste-to-value work.",
+   "body": [
+    "Our earliest bins were made from green and clear bottles fixed around metal rings, using material that was already lying around.",
+    "Women now build taller bins around wooden frames, adding row after row of bottle mesh until the frame is covered. It is practical work that people can learn together.",
+    "By June 2024 the same bottles were also becoming planters and decorative pieces, displayed alongside painted tyre planters. Each piece shows that plastic waste can be turned into something of value."
+   ],
+   "cover": "upcycle-planter",
+   "gallery": [
+    "women-frames",
+    "green-bin",
+    "clear-bin",
+    "clear-bin-2",
+    "upcycle-flower"
+   ],
+   "hero": [
+    "upcycle-planter-2"
+   ],
+   "coverPos": "50% 50%"
+  },
+  {
+   "slug": "trees-and-lessons",
+   "short": "Trees and lessons",
+   "title": "Lessons under the tent, trees in the ground",
+   "date": "February 2024",
+   "place": "Primary school visit",
+   "partners": [
+    "Climate Justice Crew"
+   ],
+   "lede": "We start with a conversation about climate, then hand pupils a seedling so they can act on it the same day.",
+   "body": [
+    "The day began under a large tent. Pupils filled the benches while facilitators worked through climate and environment topics at the blackboard and took questions from raised hands.",
+    "Then everyone went outside. Seedlings arrived in the boot of a car, and small groups of pupils dug, planted and watered trees around the compound with facilitators kneeling beside them.",
+    "Planting in small groups means every child touches the soil, and every class has a tree to look after once the visitors have gone."
+   ],
+   "cover": "tent-wide",
+   "gallery": [
+    "plant-mentor",
+    "plant-circle",
+    "plant-water",
+    "plant-girls",
+    "plant-kneel",
+    "plant-boot",
+    "tent-hands",
+    "tent-speaker",
+    "plant-group",
+    "school-group"
+   ],
+   "hero": [
+    "tent-wide"
+   ],
+   "coverPos": "50% 50%"
+  },
+  {
+   "slug": "recycling-messages",
+   "short": "Recycling messages",
+   "title": "Today, recycle for a better tomorrow",
+   "date": "November 2023",
+   "place": "Murchison Bay Primary School and the community",
+   "partners": [],
+   "lede": "Some of our most direct campaigning is done with marker pens, paper and a walk through the neighbourhood.",
+   "body": [
+    "In November 2023 young people carried handwritten messages along community roads: Recycle more plastic wastes. Use it up, wear it out, make it do or do without. Today, recycle for a better tomorrow.",
+    "The same day we were with pupils at Murchison Bay Primary School, close to our home in Luzira. Earlier that month another young campaigner summed up the whole approach on a single sheet of paper: Refuse, reduce, re-use, repurpose, recycle plastics."
+   ],
+   "cover": "pledge-road",
+   "gallery": [
+    "pledge-road-2",
+    "murchison-sign",
+    "pledge-girl"
+   ],
+   "hero": [
+    "pledge-road",
+    "murchison-trio"
+   ],
+   "coverPos": "50% 34%"
+  },
+  {
+   "slug": "community-adaptation",
+   "short": "Community adaptation",
+   "title": "Taking climate adaptation to the village",
+   "date": "September 2023",
+   "place": "Rural community outreach",
+   "partners": [
+    "Plus One Tree",
+    "Agape Earth Coalition"
+   ],
+   "lede": "While world leaders met at the UN General Assembly, we joined partners in a rural community to talk about what climate change means at home.",
+   "body": [
+    "Women, men and children sat together under the trees for a community meeting, while our team and partners moved through the village with a megaphone and placards.",
+    "The messages were direct: The one way of tackling climate impacts in Africa is through adaptation. There is no climate justice without loss and damage finance.",
+    "Tree planting tied the day together under a line shared from the visit: Plant a tree, save the generation."
+   ],
+   "cover": "adapt-placard",
+   "gallery": [
+    "adapt-sign",
+    "adapt-megaphone"
+   ],
+   "hero": [
+    "adapt-meeting",
+    "adapt-placard"
+   ],
+   "coverPos": "50% 18%"
+  },
+  {
+   "slug": "public-platforms",
+   "short": "Public platforms",
+   "title": "Carrying the message to decision makers",
+   "date": "June and October 2026",
+   "place": "Masulita Parish and the 3rd CEO's Breakfast Meeting",
+   "partners": [],
+   "lede": "Change also needs people in the room. In 2026 the message reached a high-level stage and a parish commemoration.",
+   "body": [
+    "At the 3rd CEO's Breakfast Meeting and High-Level Dialogue on Green Economy, Sustainability and SDGs, schoolgirls walked on stage with brooms, a seedling and a bottle dustbin, putting a practical waste solution in front of business and policy leaders.",
+    "On 7 June 2026 we joined the World Environment Day commemoration at Masulita Parish, standing with communities and other organisations for environmental justice."
+   ],
+   "cover": "stage",
+   "gallery": [
+    "wed-2026"
+   ],
+   "hero": [
+    "stage"
+   ],
+   "coverPos": "38% 50%"
+  }
+ ],
+ "timeline": [
+  {
+   "when": "September 2023",
+   "what": "Community climate adaptation outreach with partners during the UN General Assembly",
+   "slug": "community-adaptation"
+  },
+  {
+   "when": "October 2023",
+   "what": "Early plastic bottle dustbins take shape",
+   "slug": "waste-to-value"
+  },
+  {
+   "when": "November 2023",
+   "what": "Recycling messages in the community and at Murchison Bay Primary School",
+   "slug": "recycling-messages"
+  },
+  {
+   "when": "February 2024",
+   "what": "Climate lessons and tree planting with primary school pupils",
+   "slug": "trees-and-lessons"
+  },
+  {
+   "when": "June 2024",
+   "what": "Upcycled bottle planters and decorative pieces on display",
+   "slug": "waste-to-value"
+  },
+  {
+   "when": "April 2026",
+   "what": "Bottle dustbins delivered to Kayunga Mixed Primary School with TARD Foundation and Gufasha Girls Foundation",
+   "slug": "bottle-bins"
+  },
+  {
+   "when": "June 2026",
+   "what": "World Environment Day commemoration at Masulita Parish",
+   "slug": "public-platforms"
+  },
+  {
+   "when": "October 2026",
+   "what": "A bottle dustbin on stage at the 3rd CEO's Breakfast Meeting and High-Level Dialogue",
+   "slug": "public-platforms"
+  }
+ ],
+ "partners": [
+  "TARD Foundation",
+  "Gufasha Girls Foundation",
+  "Climate Justice Crew",
+  "Plus One Tree",
+  "Agape Earth Coalition",
+  "Kayunga Mixed Primary School",
+  "Murchison Bay Primary School"
+ ],
+ "priorities": [
+  {
+   "title": "Bottle dustbins for more schools",
+   "text": "Materials, transport and signs to bring dustbins and waste-sorting lessons to more schools.",
+   "img": "kayunga-mentor-bin"
+  },
+  {
+   "title": "School environmental clubs",
+   "text": "Starting and supporting clubs, with learning materials, clean-up tools and trained facilitators.",
+   "img": "tent-benches"
+  },
+  {
+   "title": "Trees for schools",
+   "text": "Seedlings, watering equipment and follow-up visits, so planted trees survive and grow.",
+   "img": "plant-seedling"
+  },
+  {
+   "title": "Green skills for youth and women",
+   "text": "Hands-on training in making and selling recycled products, plus starter tools for new green enterprises.",
+   "img": "women-frames"
+  },
+  {
+   "title": "The Pure Earth Innovation Hub",
+   "text": "Workspace, tools and equipment for collecting plastic and developing new waste-to-value products.",
+   "img": "upcycle-flower"
+  },
+  {
+   "title": "Inclusive access",
+   "text": "Adapting training and activities so that persons with disabilities and other underserved groups can take part fully.",
+   "img": "plant-group"
+  }
+ ],
+ "ways": [
+  {
+   "title": "Fund a project",
+   "text": "Support one of our funding priorities, in full or in part."
+  },
+  {
+   "title": "Sponsor a school",
+   "text": "Bring bins, trees and an environmental club to a school you care about."
+  },
+  {
+   "title": "Donate equipment",
+   "text": "Tools, seedlings, transport or workspace all go directly into the work."
+  },
+  {
+   "title": "Share your skills",
+   "text": "Volunteer your time, or lend technical, business or communications expertise."
+  }
+ ],
+ "team": [
+  {
+   "id": "samalie",
+   "name": "Samalie Nawaguna Tabo",
+   "role": "Founder and Executive Director"
+  },
+  {
+   "id": "edwin",
+   "name": "Edwin Namakanga",
+   "role": "Co-founder"
+  },
+  {
+   "id": "janet",
+   "name": "Nabaloga Janet",
+   "role": "Co-founder and Projects Lead"
+  },
+  {
+   "id": "joshua",
+   "name": "Joshua Kuteesa Mugabe",
+   "role": "Chief Operations Officer"
+  },
+  {
+   "id": "rossette",
+   "name": "Rossette Masaba",
+   "role": "Public Relations and Partnerships"
+  }
+ ]
+}

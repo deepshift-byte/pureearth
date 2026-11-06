@@ -1,0 +1,310 @@
+{
+"cover-flier": {
+"src": "/img/cover-flier.webp",
+"width": 1800,
+"height": 1427,
+"alt": "A smiling pupil holding up a Pure Earth notice about dustbins made from plastic bottles",
+"blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoQAA0ABABoJbACdAEfcHW7V6FfQAD941kTHE5kCzPUBUSEaA1Wlp5xsWspN8qg3GyJowBwW3ro9wVybD+UNwIPrR3giZwcwWRY98roeyskWVlr3F/+H3q+3YjOuo/zAPRXJnwMHpRAAA=="
+},
+"flier-girl-2": {
+"src": "/img/flier-girl-2.webp",
+"width": 1800,
+"height": 1424,
+"alt": "A pupil holding a Pure Earth dustbin notice outside her school",
+"blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwAgCdASoQAA0ABABoJbACdJIAA6NzEtKXQAD+aI/ML/unPQeisC7cUsUZrvRn2uk64d1XZsai83MF8Tl/xp6q8fMkjyVCdd0u6s2r3uwCwTh+0bvJwpeiXHJStg+8laQJKc6KjmIcPp8ayikPHpZVAAA="
+},
+"kayunga-group": {
+"src": "/img/kayunga-group.webp",
+"width": 1800,
+"height": 1100,
+"alt": "Pupils, teachers and the Pure Earth team at Kayunga Mixed Primary School with climate signs and a bottle dustbin",
+"blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAoABABoJZACdAC9iS2/9F4AAPvzM1R4PAd4h5HZA7vxkdTSv3uxpLkXWLgl8ZyCJZdSOrzSG9VK2KAuU7E/kYKtEcUC5Yu6G1HeAAA="
+},
+"kayunga-signs": {
+"src": "/img/kayunga-signs.webp",
+"width": 1800,
+"height": 1339,
+"alt": "Climate signs and a bottle dustbin outside a classroom at Kayunga Mixed Primary School",
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQAAwABABoJbACdADFgbqGeSQA/t4zHtTQiaxSMqlT3VcULfSEDOWrwt3j45ioyvL7BsCakiE5F1iGs9lBEpUpw7yEYngjtvVIqFoo/STbd+FkD8mdtqAA"
+},
+"kayunga-girls-bin": {
+"src": "/img/kayunga-girls-bin.webp",
+"width": 1180,
+"height": 1800,
+"alt": "Two pupils holding a tall dustbin woven from plastic bottles",
+"blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAwAgCdASoKABAABABoJbACdH8AGZB4ThPsAAD+SJQusKzzJO3VkhICOmbyuOmvBLJrDUJE7u64WvHQ5Ti+faZL5fxQkMCWYh7QameDDgNHCLULyOBT8q8VvUJi8r1Z8zUYLMYGy6CSSU5TUsAAAA=="
+},
+"kayunga-girls-bin-2": {
+"src": "/img/kayunga-girls-bin-2.webp",
+"width": 1012,
+"height": 1800,
+"alt": "Two pupils in blue uniforms with a bottle dustbin",
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAQCdASoJABAABABoJbACdADc3j5meADxFsWcTEGj7RFj21TZnwoUa8O2gXUEmaX2qLA9OSObLZ1afhSgFEX6mwofqLJlySu0pfEFnlmJNkGiH/ElmXoTdfLAAAAA"
+},
+"kayunga-mentor-bin": {
+"src": "/img/kayunga-mentor-bin.webp",
+"width": 1086,
+"height": 1800,
+"alt": "A team member standing behind a finished bottle dustbin",
+"blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoKABAABABoJbACdACG28tEAAD+h0sUsF5wSgjeo1d5yfTiyLSChjcN67UIPuTUgAYTriByrqRimCpfwrWeRJ/HHTY/R1w61hiTNr0tlbfPU1IUJAA="
+},
+"kayunga-entrance": {
+"src": "/img/kayunga-entrance.webp",
+"width": 975,
+"height": 1800,
+"alt": "A team member placing a bottle dustbin at a school entrance",
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoJABAABABoJbACdAD0X2hHvAAA+UD4uIVx9ilbn5aIiltxS/t+Ya6Q9kHOVHpqgWMAj/gWCYGbfzGx3WIVxFRs1iFZP8kG3xunIKAA"
+},
+"stage": {
+"src": "/img/stage.webp",
+"width": 1800,
+"height": 1200,
+"alt": "Four schoolgirls on stage with brooms and a bottle dustbin at the 3rd CEO\u2019s Breakfast Meeting",
+"blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoQAAsABABoJbACdEf/gefazg6PEAAA/siobZxJGaULAhHBpu9wcnSO8Hufh3e8VskOZCq75GBYaRjF7LtCvgvq+j3686YAiiTKXVwmD1nu7ifwUe40iTE1pLmJgUoAAAA="
+},
+"women-frames": {
+"src": "/img/women-frames.webp",
+"width": 622,
+"height": 1280,
+"alt": "A woman building a bottle dustbin on a wooden frame while a child sits nearby",
+"blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoIABAABABoJbACdAEPCSF4fhAAAP4zIvazahtQHcoXePb/QfJktd1EkFltxyaT7tNxJtXTwaZMzvJhSvRMsO90DcLwAA=="
+},
+"green-bin": {
+"src": "/img/green-bin.webp",
+"width": 818,
+"height": 1080,
+"alt": "A dustbin made from green plastic bottles fixed around a metal ring",
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoMABAABABoJagCdADdf05mYAD2G43uINUVEwZezixhfoyAdloP4VLXtdz9ot6gKmyYi56ex5/BlEePQA/l6B/x8CCQfnP1YgqAAA=="
+},
+"clear-bin": {
+"src": "/img/clear-bin.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A round dustbin made from clear and green plastic bottles",
+"blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMABAABABoJbACdAB6xCOAAP7Ez4ptmZE498HTFVQ7ylxZ4rX+2TZAL3pbEtasD9EtkPha6AA="
+},
+"clear-bin-2": {
+"src": "/img/clear-bin-2.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A bottle dustbin standing on red soil",
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMABAABABoJbACdACzb0Zq0IAA/HND/KqDX+Vpx8gR0uc9fA7TikVMuzut6RJEKd++Dy37pkqrGR7uTBzsY+H7HiWzhgDKncK+bKAA"
+},
+"upcycle-flower": {
+"src": "/img/upcycle-flower.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A decorative flower made from plastic bottles and purple caps",
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoMABAABABoJQBOgB9i2U6h424QAAD8AVIsxmYlQkQIToA6jC2dWFcPrVQ/JVloEQ3nxy0lgbYzV45rXnMBxbN+vvZxy1M5ncBgAA=="
+},
+"upcycle-planter": {
+"src": "/img/upcycle-planter.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A planter made from blue and black plastic bottles",
+"blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMABAABABoJbACdIExE60r0ylwAP4/uE+tdiu4j1k3bOd5F8qTuiNhnhZGwZ261chg+bKpIu0gjT6SKGl/5AtGPYDGIIwi5s1xumtIfNAAAA=="
+},
+"upcycle-planter-2": {
+"src": "/img/upcycle-planter-2.webp",
+"width": 1800,
+"height": 1350,
+"alt": "Blue and black bottle planters on a display table",
+"blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoQAAwABABoJbACdH8AF1PqmGAA/GFbscnytWrxJtVChSsEMTiGpawr02pSgNglkpIWPYnzUzLsX3W9RMTv+z/nX4LkIhPEZfHbax1Jssj0HP5O2jnUWVAhZ4sqXVR+tHQAAA=="
+},
+"school-group": {
+"src": "/img/school-group.webp",
+"width": 1080,
+"height": 810,
+"alt": "Pupils and facilitators in a group photo outside a classroom",
+"blur": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoQAAwABABoJZACdADxDw+tigAAzjChmza2eDab3NaIztF3R66IEyDadssZckJ5ll0+XBDaIkuTh46nXBd7Bq6iGBbCRxTK+iLL4yPoXPPguNlpLfAAAA=="
+},
+"tent-wide": {
+"src": "/img/tent-wide.webp",
+"width": 1800,
+"height": 1350,
+"alt": "Pupils seated on benches under a large tent during a climate lesson",
+"blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAwABABoJYwC7ACg+nBa/0AA/lXjxYhPvnnh34ymhiIQI7R7O0zge/RBcJkTEbLUkb7kMDVfVSJDqB5oY9kAAAA="
+},
+"tent-back": {
+"src": "/img/tent-back.webp",
+"width": 1800,
+"height": 1350,
+"alt": "Rows of pupils in a tent listening to a facilitator",
+"blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAwABABoJagCdACY9ZsjwrAAn6uF94v272wVzgqorcwdqJd6QAyRf7kqJR21VoQQeFv+Ql4JS8mXRbdCLXuVpaHpY1EcAAA="
+},
+"tent-benches": {
+"src": "/img/tent-benches.webp",
+"width": 1800,
+"height": 1350,
+"alt": "Pupils at wooden desks in a tent classroom",
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoQAAwABABoJZACdH8AGBkNS2fKAADN23a1ndhTgmHPUD1C/t5tyULS4ID0CISJFEb8fcaKI3UumbqyBWE/85f9HPGefMduKwcGcOViT/gGf1uBc11oAAAA"
+},
+"tent-hands": {
+"src": "/img/tent-hands.webp",
+"width": 1350,
+"height": 1800,
+"alt": "Pupils raising their hands during a lesson under a tent",
+"blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMABAABABoJYwC7ACx6hm+AAD90XcuGKSbS1RD+1m7yBQA0s9HR4acLIE0hGF7zDPGKfA3k506/xky4SAsFRD6AAA="
+},
+"tent-speaker": {
+"src": "/img/tent-speaker.webp",
+"width": 810,
+"height": 1080,
+"alt": "A facilitator speaking to pupils in front of a blackboard",
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMABAABABoJQBOgBorCMR7U6v0APfZ2Zr9T2N0NLzgcfxnsyAUhDKNPf3dhH6E56C+Fvamp8Sz6blLdKr1lOlcUXKlzEMqWMnkAAAA"
+},
+"tent-board": {
+"src": "/img/tent-board.webp",
+"width": 1800,
+"height": 1350,
+"alt": "A facilitator at a blackboard in a tent classroom",
+"blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAwABABoJaACdAD8ujk90dgAAM4ORRxfVKqYHHi52trki7d9gbgzc9uhsr5d1yhInpnThldKrPkXntF1ti2+dSPNAAAA"
+},
+"plant-circle": {
+"src": "/img/plant-circle.webp",
+"width": 1080,
+"height": 810,
+"alt": "A facilitator and pupils planting a seedling together",
+"blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoQAAwABABoJQBdgBnrfcbpwAD8DkQzN5ZnIeZGOx17n6vJSnzpuktC6/FSXeb30xV6y8bhR3xcqFpKjMqLw3AA"
+},
+"plant-kneel": {
+"src": "/img/plant-kneel.webp",
+"width": 810,
+"height": 1080,
+"alt": "A facilitator kneeling beside a pupil to plant a tree",
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoMABAABABoJbACdAEWtRal6gacYAD9Ow491FZe6lYkjRDO7Bm4jZ61Jhnw81fIogsue3BcEnKq2z0u6KbZHoHrIEdymYfUKcv2OLorDagMAeXABzaugAAA"
+},
+"plant-mentor": {
+"src": "/img/plant-mentor.webp",
+"width": 960,
+"height": 1280,
+"alt": "A facilitator and pupils holding a seedling ready for planting",
+"blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMABAABABoJZACdADZmjS2dAAA/uDXmOcu/y6tJOGFyEV/18wUzWC2PvIP8Fpbok6fW5V9MGx2uhkeVietXhYTnhipyo1iMnY4YAAA"
+},
+"plant-girls": {
+"src": "/img/plant-girls.webp",
+"width": 960,
+"height": 1280,
+"alt": "Pupils in blue uniforms holding seedlings",
+"blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoMABAABABoJQBOj+ADGFRH+e0R4AD+s7wmhGzOhmqjHlASLlrW8MZbdbhK1z+VuBjnZ2wpBZURxrIxjX3BdURtUFO6Sp9mgbRnr3pUzipBzdnFbNYI3E2AAAA="
+},
+"plant-line": {
+"src": "/img/plant-line.webp",
+"width": 1080,
+"height": 810,
+"alt": "A line of pupils each holding a seedling",
+"blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoQAAwABABoJZgCdADp2ecOAAD+aFFWnrTlh/rqr1vbkcuqp71AraBFv8Z8GUjI2kTYb8RFzg1vkB86Yh+pZQiDzwtascltAAA="
+},
+"plant-wide": {
+"src": "/img/plant-wide.webp",
+"width": 810,
+"height": 1080,
+"alt": "Pupils gathered in a large circle around a planting spot",
+"blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoMABAABABoJbACdAEOPT6C5AAA/ml1l+2h4syFcfyPT+GUBaoXdmeR0O8lniezPKyXZWgYOUAqUH3Xvpkh1NfNsewuUNhcMy8vkRp70Ef/n88/WAA="
+},
+"plant-water": {
+"src": "/img/plant-water.webp",
+"width": 810,
+"height": 1080,
+"alt": "A pupil watering a newly planted tree with a green can",
+"blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMABAABABoJbACdADdpLl4ofnAgADeAwIzedp6RTfYsAZMw65bENV32xi8vZlFbEe6MTvyAhyhwX5hmsq2xNl79aVqc+xecKnN3RXjo4TINQAA"
+},
+"plant-boot": {
+"src": "/img/plant-boot.webp",
+"width": 867,
+"height": 1156,
+"alt": "Seedlings in the open boot of a car with pupils waiting beside it",
+"blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMABAABABoJZAC7ADdZXNponiQAAD+562jTtmwyhCt1UMvXi0wY+PhIUurrkdry3ppC+UaItBf7wIBkOYq+ctnY/T98p4fN4ns1yclBm/4RKAA"
+},
+"plant-seedling": {
+"src": "/img/plant-seedling.webp",
+"width": 810,
+"height": 1080,
+"alt": "Pupils pressing soil around a young tree",
+"blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoMABAABABoJbAC7H8AC6jOeSgA/Y9OHc/hvYzhK9U4hxqCIO9mpDwUpg/9TaRgL6rPkN/Rd36+lBupnsbn2z2rwaIuiICWlhdYFcLyy8J81KSe0sC//ZdOHyAAAA=="
+},
+"plant-group": {
+"src": "/img/plant-group.webp",
+"width": 1080,
+"height": 810,
+"alt": "Pupils and adults gathered around a newly planted tree",
+"blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoQAAwABABoJbACw7DiGPBAAAD+peEVCa/sN6qroJQpznh2zer3D1k/lPFTaortvzcVmRsK7nQKrFdDF5d374rKryRyfgF42PrUw6PiCKAAAA=="
+},
+"adapt-sign": {
+"src": "/img/adapt-sign.webp",
+"width": 768,
+"height": 1024,
+"alt": "A team member holding a sign about climate adaptation in Africa",
+"blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoMABAABABoJagCdIExGOPZWQxcoAD+1Q/Bf7pfp5Ok32A8dj30+yYBr0f+VddcMLfM161RSNVKmwpp8wgHWnkuPnn6N+2zmP0yocD2/pK76U3OLvNFZcZLvkT/UAAA"
+},
+"adapt-placard": {
+"src": "/img/adapt-placard.webp",
+"width": 768,
+"height": 1024,
+"alt": "Young campaigners in green shirts holding a climate justice placard",
+"blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAQCdASoMABAABABoJbACdADZOvZhuAAA/thMtVVJR5hUKllpp/ueKpa/P4rk9HpCd3bsoASmfN7Ojv/QxLu6E+JeVsMGGGUooa56VmwEt3+i6MLJs0Mxv8t8wRS3FQXu3bBfPUl1KBOAAAA="
+},
+"adapt-meeting": {
+"src": "/img/adapt-meeting.webp",
+"width": 768,
+"height": 1024,
+"alt": "Community members seated together at an outdoor meeting",
+"blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMABAABABoJaACdAEedM9FSa1YAP6VCGECT4aSlOWb51KgqdCJlRaO0+JKIEgVPpQklLoc++9tKIfckXy32lfNkL4tvhZvNo9OQRih0Rdy3BqAAAA="
+},
+"adapt-megaphone": {
+"src": "/img/adapt-megaphone.webp",
+"width": 810,
+"height": 1080,
+"alt": "A campaigner with a megaphone in a village",
+"blur": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMABAABABoJZACdAEUUzByJQAA/mM4JU+0LpuAiv6UrRHEcxeFXpCluvBiCRTYzO/jWOTTvpEGvzYyC9F+yojC6oaGTJg9qrAAAA=="
+},
+"adapt-char": {
+"src": "/img/adapt-char.webp",
+"width": 810,
+"height": 1080,
+"alt": "A campaigner in a green shirt",
+"blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoMABAABABoJbACdH8GJ/gYtyPLzCyAAP62FXVsVTzbINdB3mjNM08xF/7OnQhrRaJDBDxN6TLOrg/LhULaeqjy/U1AsjZOPXnnQZwgQ0uECFs7jlmrY2AA"
+},
+"pledge-road": {
+"src": "/img/pledge-road.webp",
+"width": 1350,
+"height": 1800,
+"alt": "Three young people holding handwritten recycling messages on a dirt road",
+"blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoMABAABABoJbACsABPUCAAAP7f9OSdpCCOTXkyrWUA3N0FgnB/YlfvT9ZYH34UfKAPj9lrSQzQU1Cc+0tQDHLAcl1joP9Nn6Ys6XgAAAA="
+},
+"pledge-road-2": {
+"src": "/img/pledge-road-2.webp",
+"width": 1350,
+"height": 1800,
+"alt": "Two young people holding handwritten recycling messages on a dirt road",
+"blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMABAABABoJbACw7D5jbYUlEMgAP62nMqlNOJRYb5U8QGLoh/6J7DpAJr+sqWJWqO8c9CZQWfBGiYCkHCbJSZW22+RC2Ek5HNiEjL4CAAAAA=="
+},
+"murchison-trio": {
+"src": "/img/murchison-trio.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A facilitator with two pupils at Murchison Bay Primary School",
+"blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQAgCdASoMABAABABoJbACdH8AGKg18J4mTgAA/oxZ7WPp/G6GLktwOBOyDhuhjoK2Y74fMdSZNLmWte7oyfZAXkFxH4wxj35N+Toe1xKbnvsgAAA="
+},
+"murchison-sign": {
+"src": "/img/murchison-sign.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A group beside the Murchison Bay Primary School signboard",
+"blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMABAABABoJbACdADbqy2B4AAA/dJGqVLLIkjQoL4s4bIzpji+Qf2oqkJLNNWOU4Gglp2HFS0q7U8KzB5vnM8hpgj82cEAAAA="
+},
+"pledge-girl": {
+"src": "/img/pledge-girl.webp",
+"width": 1350,
+"height": 1800,
+"alt": "A young campaigner holding a sign listing refuse, reduce, re-use, repurpose and recycle",
+"blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMABAABABoJbACdADcUsuW1uXAAPhcon7bSl/91ie7yQ+Gy+SbFDpnbo8njzIBmkrtbpS0nHxWHPyvtl6IviWS4TwIAAAA"
+},
+"wed-2026": {
+"src": "/img/wed-2026.webp",
+"width": 810,
+"height": 1080,
+"alt": "Two women smiling and holding World Environment Day 2026 flags",
+"blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAgCdASoMABAABABoJQBOj+ADAb/ckLu4QAD+3/kHTng8RCqy/SRml1V7ymOF3SJMFWMaacHk7aocMjgpISUfSF1cZWjmsiDcAAAA"
+}
+}

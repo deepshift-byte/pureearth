@@ -1,0 +1,5 @@
+{"name":"pure-earth-website","version":"1.0.0","private":true,
+"scripts":{"dev":"next dev","build":"next build","start":"next start"},
+"dependencies":{"lenis":"1.3.27","motion":"14.9.1","next":"16.4.5","react":"19.2.8","react-dom":"19.2.8"},
+"devDependencies":{"@types/node":"^22","@types/react":"^19","@types/react-dom":"^19","typescript":"^5"},
+"engines":{"node":">=20.9"}}
